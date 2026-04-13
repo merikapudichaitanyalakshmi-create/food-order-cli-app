@@ -125,7 +125,7 @@ This project demonstrates:
 # 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/merikapudichaitanyalakshmi
+GitHub: https://github.com/merikapudichaitanyalakshmi-create
 
 ---
 
