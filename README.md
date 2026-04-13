@@ -1,6 +1,3 @@
-# food-order-cli-app
-Python CLI Food Ordering System
-
 # 🍔 CAPO Vibes - Food Ordering CLI App
 
 A Python command-line food ordering system that allows users to browse menu items, add to cart, modify orders, and checkout.
